@@ -1,1 +1,27 @@
 # ecom
+
+ADMIN
+- Category
+- Sub Category
+- products
+- orders
+- customers
+- cms
+  - aboutus
+  - contactus
+  - home page
+
+FRONTEND
+- home
+- search
+- product
+- product detail
+- cart
+- add to cart
+- checkout
+- my account
+  - profile
+  - orders
+  - order details
+  - chage password
+ 
