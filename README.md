@@ -6,6 +6,7 @@ ADMIN
 - products
 - orders
 - customers
+- authentication
 - cms
   - aboutus
   - contactus
@@ -19,6 +20,7 @@ FRONTEND
 - cart
 - add to cart
 - checkout
+- authentication
 - my account
   - profile
   - orders
